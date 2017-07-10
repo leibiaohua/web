@@ -1,0 +1,25 @@
+/*
+ *这是单独为hello mui准备的个性化css，可以覆盖标准mui的css定义；
+ * 在实际项目开发时，建议为App单独写一个css文件，从而实现项目的自定义皮肤功能；
+ * 
+ * */
+.mui-card-header {
+	background-color: #FFFFF4;
+	text-align:center;
+}
+.mui-table-view {
+	background-color: #FFFFF4;
+}
+h5.mui-content-padded {
+	margin-left: 3px;
+	margin-top: 20px !important;
+}
+.title{
+	margin: 6px 15px 7px;
+	color: #6d6d72;
+	font-size: 15px;
+}
+
+.mui-icon-extra-heart-filled:before {
+    content: "\e119";
+}

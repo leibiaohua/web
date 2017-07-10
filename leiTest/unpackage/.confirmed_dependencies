@@ -1,0 +1,544 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/update.js"
+		],
+		"refer": [
+			"index-menu.html",
+			"examples/guide.html",
+			"examples/actionsheet-plus.html",
+			"examples/accordion.html",
+			"examples/offcanvas-drag-right-plus-main.html",
+			"examples/actionsheet.html",
+			"examples/imageviewer.html",
+			"examples/login.html",
+			"examples/setting.html",
+			"examples/ajax.html",
+			"examples/card.html",
+			"examples/dialog.html",
+			"examples/typography.html",
+			"examples/clouddb_wilddog.html",
+			"examples/feedback.html",
+			"examples/echarts.html",
+			"examples/input.html",
+			"examples/ad.html",
+			"examples/pullrefresh.html",
+			"examples/pullrefresh_main.html",
+			"examples/radio.html",
+			"examples/im-chat.html",
+			"examples/pagination.html",
+			"examples/lazyload-image.html",
+			"examples/info.html",
+			"examples/checkbox.html",
+			"examples/switches.html",
+			"examples/icons.html",
+			"examples/icons-extra.html",
+			"examples/tableviews.html",
+			"examples/tableviews-with-badges.html",
+			"examples/tableviews-with-collapses.html",
+			"examples/tableviews-with-swipe.html",
+			"examples/media-list.html",
+			"examples/grid-default.html",
+			"examples/slider-default.html",
+			"examples/pic_layout.html",
+			"examples/slider-with-title.html",
+			"examples/slider-table-pagination.html",
+			"examples/slider-table-default.html",
+			"examples/grid-pagination.html",
+			"examples/offcanvas-drag-down.html",
+			"examples/indexed-list.html",
+			"examples/indexed-list-select.html",
+			"examples/pullrefresh_with_tab.html",
+			"examples/tabbar.html",
+			"examples/range.html",
+			"examples/tabbar-with-submenus.html",
+			"examples/tab-webview-main.html",
+			"examples/tab-with-segmented-control.html",
+			"examples/popovers.html",
+			"examples/tab-vertical-scroll.html"
+		]
+	},
+	"examples/actionsheet-plus.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/accordion.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/muwu.jpg",
+			"images/yuantiao.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"images/shuijiao.jpg",
+			"js/jquery-2.1.3.min.js"
+		]
+	},
+	"examples/offcanvas-drag-right-plus-main.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"examples/offcanvas-drag-right-plus-menu.html"
+		]
+	},
+	"examples/actionsheet.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/imageviewer.html": {
+		"resources": [
+			"js/mui.zoom.js",
+			"images/muwu.jpg",
+			"images/yuantiao.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/mui.previewimage.js",
+			"images/shuijiao.jpg",
+			"examples/pic_layout.html"
+		],
+		"refer": [
+			"examples/pic_layout.html"
+		]
+	},
+	"examples/login.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"css/mui.min.css",
+			"images/login-1.png",
+			"fonts/mui.ttf"
+		]
+	},
+	"examples/setting.html": {
+		"resources": [
+			"css/feedback.css",
+			"images/logo.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/feedback.js",
+			"js/mui.view.js"
+		]
+	},
+	"examples/ajax.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/card.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/yuantiao.jpg",
+			"images/logo.png",
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/dialog.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/typography.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/clouddb_wilddog.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/feedback.html": {
+		"resources": [
+			"css/feedback.css",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/feedback.js"
+		]
+	},
+	"examples/echarts.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"libs/echarts-all.js"
+		]
+	},
+	"examples/input.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/ad.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"index-menu.html": {
+		"refer": [
+			"examples/pullrefresh_main.html",
+			"examples/offcanvas-drag-left.html",
+			"examples/tableviews-with-swipe.html",
+			"examples/tab-with-viewpagerindicator.html",
+			"examples/switches.html"
+		]
+	},
+	"examples/pullrefresh_main.html": {
+		"resources": [
+			"examples/pullrefresh_sub.html",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"examples/pullrefresh_sub.html"
+		]
+	},
+	"examples/offcanvas-drag-left.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tableviews-with-swipe.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tab-with-viewpagerindicator.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/pullrefresh.html": {
+		"resources": [
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/radio.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/im-chat.html": {
+		"resources": [
+			"js/mui.imageViewer.js",
+			"images/logo.png",
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/mui.imageviewer.css",
+			"js/arttmpl.js"
+		]
+	},
+	"examples/pagination.html": {
+		"resources": [
+			"css/app.css",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/lazyload-image.html": {
+		"resources": [
+			"css/app.css",
+			"images/60x60.gif",
+			"js/mui.lazyload.js",
+			"js/mui.lazyload.img.js"
+		]
+	},
+	"examples/info.html": {
+		"resources": [
+			"images/qrcode.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/checkbox.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/switches.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/icons.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/icons-extra.html": {
+		"resources": [
+			"fonts/mui-icons-extra.ttf",
+			"js/mui.min.js",
+			"css/app.css",
+			"css/mui.min.css",
+			"css/icons-extra.css",
+			"fonts/mui.ttf"
+		]
+	},
+	"examples/tableviews.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"examples/pic_layout.html"
+		],
+		"refer": [
+			"examples/pic_layout.html"
+		]
+	},
+	"examples/tableviews-with-badges.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tableviews-with-collapses.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/media-list.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/yuantiao.jpg",
+			"images/muwu.jpg",
+			"css/app.css",
+			"css/mui.min.css",
+			"images/shuijiao.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf"
+		]
+	},
+	"examples/grid-default.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/slider-default.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/muwu.jpg",
+			"images/yuantiao.jpg",
+			"images/shuijiao.jpg"
+		]
+	},
+	"examples/pic_layout.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/muwu.jpg",
+			"images/yuantiao.jpg",
+			"images/shuijiao.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/pic_layout.css",
+			"fonts/mui-icons-extra.ttf",
+			"css/icons-extra.css",
+			"examples/imageviewer.html",
+			"examples/tableviews.html",
+			"css/app.css"
+		],
+		"refer": [
+			"examples/imageviewer.html",
+			"examples/tableviews.html"
+		]
+	},
+	"examples/slider-with-title.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/muwu.jpg",
+			"images/yuantiao.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"images/shuijiao.jpg"
+		]
+	},
+	"examples/slider-table-default.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/yuantiao.jpg",
+			"images/muwu.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"images/shuijiao.jpg"
+		]
+	},
+	"examples/slider-table-pagination.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/muwu.jpg",
+			"images/yuantiao.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"images/shuijiao.jpg"
+		]
+	},
+	"examples/grid-pagination.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/offcanvas-drag-down.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/indexed-list.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/mui.indexedlist.css",
+			"js/mui.indexedlist.js"
+		]
+	},
+	"examples/indexed-list-select.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/mui.indexedlist.css",
+			"js/mui.indexedlist.js"
+		]
+	},
+	"examples/pullrefresh_with_tab.html": {
+		"resources": [
+			"js/mui.pullToRefresh.js",
+			"js/mui.min.js",
+			"js/mui.pullToRefresh.material.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tabbar.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"images/60x60.gif",
+			"css/mui.min.css"
+		]
+	},
+	"examples/range.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tabbar-with-submenus.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tab-webview-subpage-contact.html": {
+		"resources": [
+			"images/60x60.gif"
+		]
+	},
+	"examples/tab-webview-main.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"examples/tab-webview-subpage-about.html"
+		],
+		"refer": [
+			"examples/tab-webview-subpage-setting.html",
+			"examples/tab-webview-subpage-chat.html",
+			"examples/tab-webview-subpage-contact.html",
+			"examples/tab-webview-subpage-about.html"
+		]
+	},
+	"examples/tab-with-segmented-control.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/popovers.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"examples/tab-vertical-scroll.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	}
+}
